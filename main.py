@@ -7,7 +7,7 @@ from reportlab.pdfgen import canvas
 import webbrowser, os
 
 try:
-    os.mkdir("/Users/uttam/Desktop/bill")
+    os.mkdir("/Users/uttam/Desktop/bill_pdf") #name should be proper#
 except:
     pass
 
