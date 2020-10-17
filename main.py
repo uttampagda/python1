@@ -35,7 +35,7 @@ class product:
 root = Tk()
 root.title("E-INVOICE GENERATOR")
 width = 750
-height = 600  
+height = 290  
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
 x = (screen_width / 2) - (width / 2)
